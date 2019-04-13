@@ -5,9 +5,10 @@
     "release": "shadow-cljs release app"
   },
   "dependencies": {
-    "create-react-class": "^15.6.3",
-    "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+      "create-react-class": "^15.6.3",
+      "react": "^16.8.1",
+      "react-dom": "^16.8.1",
+      "truffle": "^5.0.12"
   },
   "devDependencies": {
     "shadow-cljs": "^2.7.30"
