@@ -1,5 +1,5 @@
-const DolphinSightings = artifacts.require("DolphinSightings");
+const SimpleStorage = artifacts.require("SimpleStorage");
 
 module.exports = function(deployer) {
-  deployer.deploy(DolphinSightings);
+  deployer.deploy(SimpleStorage);
 };
